@@ -19,7 +19,7 @@ The example of the content of the .json file in this folder:
 Input number two is the .xlsx file called “list_of_docs” located in the same main directory.
 This list includes a link in the column A and the label of the document from that link in the column B.
 For example:
-https://www.yumpu.com/en/document/view/70337116/asa-journal-outbound-jan-feb-2025 in A1 has “MAGAZINE” as label in the column B. The document ID is defined as the numeric string immediately following the view/ segment of the URL in the column A.
+https://www.xxxxxxxx.com/en/document/view/00000000000/xxx-xxxxxxx-xxxxxxxx-xxx-feb-2025 in A1 has “MAGAZINE” as label in the column B. The document ID is defined as the numeric string immediately following the view/ segment of the URL in the column A.
 
 Part one of the analysis includes extracting the data from the sub-directories and respective .json files inside of them. You need to complete following steps.
 Iterate through the “260223_dme_predictions” directory. For each sub-folder, extract data as follows:
