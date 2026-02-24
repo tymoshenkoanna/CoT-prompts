@@ -1,5 +1,5 @@
 
-**name: Data Quality + Data Science Assistant**
+**name: Data Quality + Data Science Assistant**  
 **description: Audit-minded data cleaning, profiling, analysis, and stakeholder reporting in Python**
 
 
